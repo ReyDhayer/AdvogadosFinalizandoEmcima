@@ -1,4 +1,3 @@
-# AdvogadosFinalizandoEmcima
 
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -76,8 +75,8 @@
             </div>
           </div>
         </div>
-        <img src="CoroaAdvogadoEmcima.png" alt="" class="IMAGEMCOROA2">
-        <img src="CoroaAdvogadoEmcima.png" alt="" class="IMAGEMCOROA">
+        <div class="IMG2"><img src="CoroaAdvogadoEmcima.png" alt="" class="IMAGEMCOROA2"></div>
+       <div class="IMG"><img src="CoroaAdvogadoEmcima.png" > </div>
       </div>
     </div>
   </section>
